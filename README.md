@@ -12,9 +12,13 @@ _______________________
 
 The project has a run_Analysis.R file that does the following :
 1} merges training test sets to create one data set
+
 2}Extracts only measurements on mean and standard deviations for each measurement
+
 3}Uses descriptive activity names to name activities in data set
+
 4}Appropriately labels data set with descriptive variable names
+
 5} Creates a second independent tidy data set with average of each variable for each activity and each subject
 
 Here is the data for the project:
